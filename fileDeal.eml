@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_8" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<levels>
+		<level name="Maven: com.alibaba:druid:1.0.18" value="project"/>
+		<level name="Maven: com.alibaba.rocketmq:rocketmq-client:3.5.9" value="project"/>
+		<level name="Maven: org.slf4j:slf4j-api:1.7.5" value="project"/>
+		<level name="Maven: org.apache.poi:poi:3.9" value="project"/>
+		<level name="Maven: commons-codec:commons-codec:1.5" value="project"/>
+		<level name="Maven: org.apache.poi:poi-ooxml:3.9" value="project"/>
+		<level name="Maven: dom4j:dom4j:1.6.1" value="project"/>
+		<level name="Maven: xml-apis:xml-apis:1.0.b2" value="project"/>
+		<level name="Maven: org.apache.poi:poi-ooxml-schemas:3.9" value="project"/>
+		<level name="Maven: org.apache.xmlbeans:xmlbeans:2.3.0" value="project"/>
+		<level name="Maven: stax:stax-api:1.0.1" value="project"/>
+	</levels>
+</component>

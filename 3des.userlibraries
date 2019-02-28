@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib" />
+  <library name="Maven: stax:stax-api:1.0.1">
+    <archive path="C:/Users/13806/.m2/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar" />
+  </library>
+  <library name="Maven: dom4j:dom4j:1.6.1">
+    <archive path="C:/Users/13806/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" />
+  </library>
+  <library name="Maven: com.alibaba.rocketmq:rocketmq-client:3.5.9">
+    <archive path="C:/Users/13806/.m2/repository/com/alibaba/rocketmq/rocketmq-client/3.5.9/rocketmq-client-3.5.9.jar" />
+  </library>
+  <library name="Maven: org.apache.poi:poi-ooxml-schemas:3.9">
+    <archive path="C:/Users/13806/.m2/repository/org/apache/poi/poi-ooxml-schemas/3.9/poi-ooxml-schemas-3.9.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.5">
+    <archive path="C:/Users/13806/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar" />
+  </library>
+  <library name="Maven: org.apache.poi:poi:3.9">
+    <archive path="C:/Users/13806/.m2/repository/org/apache/poi/poi/3.9/poi-3.9.jar" />
+  </library>
+  <library name="Maven: commons-codec:commons-codec:1.5">
+    <archive path="C:/Users/13806/.m2/repository/commons-codec/commons-codec/1.5/commons-codec-1.5.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlbeans:xmlbeans:2.3.0">
+    <archive path="C:/Users/13806/.m2/repository/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar" />
+  </library>
+  <library name="Maven: xml-apis:xml-apis:1.0.b2">
+    <archive path="C:/Users/13806/.m2/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" />
+  </library>
+  <library name="Maven: org.apache.poi:poi-ooxml:3.9">
+    <archive path="C:/Users/13806/.m2/repository/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9.jar" />
+  </library>
+  <library name="Maven: com.alibaba:druid:1.0.18">
+    <archive path="C:/Users/13806/.m2/repository/com/alibaba/druid/1.0.18/druid-1.0.18.jar" />
+  </library>
+</eclipse-userlibraries>
+
